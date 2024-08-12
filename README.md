@@ -35,7 +35,3 @@ To get started with this project, I needed to familiarize myself with some basic
     cd web-learning
     ```
 3. Open the project in your text editor to start exploring the code.
-
-## Project Structure
-
-The project is organized as follows:

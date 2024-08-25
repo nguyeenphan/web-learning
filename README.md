@@ -6,10 +6,8 @@ Welcome to my "Intro to Learning Code Web with HTML, CSS, and JavaScript" projec
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 
 ## Introduction
 
